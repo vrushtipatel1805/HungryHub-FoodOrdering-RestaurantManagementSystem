@@ -60,14 +60,22 @@ npm
 
 🤖 AI Taste Match
 
-❤️ Favourite Meals / Food Recommendations,
-📊 Admin Dashboard,
-👥 User Management,
-🍴 Menu Management,
-📋 Order Management,
-🪑 Reservation Management,
-💵 Revenue & Payment Management,
-🎟️ Coupon Management,
+❤️ Favourite Meals / Food Recommendations
+
+📊 Admin Dashboard
+
+👥 User Management
+
+🍴 Menu Management
+
+📋 Order Management
+
+🪑 Reservation Management
+
+💵 Revenue & Payment Management
+
+🎟️ Coupon Management
+
 📈 Reports & Analytics
 
 # Project Structure
