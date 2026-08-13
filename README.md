@@ -32,20 +32,34 @@ npm
 # Key Features
 👤 User Registration & Login
 
-🔐 JWT-based Authentication,
-🍕 Vegetarian Food Menu,
-📂 Menu Categories & Food Items,
-🛒 Shopping Cart,
-📦 Online Food Ordering,
-💰 GST & Delivery Charge Calculation,
-🎟️ Coupon & Discount System,
-💳 Payment Management,
-🍽️ Table Reservation,
-🎉 Event Package Booking,
-📄 Booking & Order Bill Generation,
-📧 Email Notifications,
-⭐ Customer Feedback & Ratings,
-🤖 AI Taste Match,
+🔐 JWT-based Authentication
+
+🍕 Vegetarian Food Menu
+
+📂 Menu Categories & Food Items
+
+🛒 Shopping Cart
+
+📦 Online Food Ordering
+
+💰 GST & Delivery Charge Calculation
+
+🎟️ Coupon & Discount System
+
+💳 Payment Management
+
+🍽️ Table Reservation
+
+🎉 Event Package Booking
+
+📄 Booking & Order Bill Generation
+
+📧 Email Notifications
+
+⭐ Customer Feedback & Ratings
+
+🤖 AI Taste Match
+
 ❤️ Favourite Meals / Food Recommendations,
 📊 Admin Dashboard,
 👥 User Management,
