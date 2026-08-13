@@ -6,31 +6,32 @@ menu items, orders, reservations, payments, coupons, feedback, and restaurant op
 # Technology Used
 
 **Frontend:**
-React.js,
-Vite,
-HTML5,
-CSS3,
-JavaScript,
+React.js ,
+Vite ,
+HTML5 ,
+CSS3 ,
+JavaScript ,
 Tailwind CSS
 
 **Backend:**
-Python,
-Django,
-Django REST Framework,
+Python ,
+Django ,
+Django REST Framework ,
 REST APIs
 
 **Database:**
-PostgreSQL,
+PostgreSQL ,
 Django ORM
 
 **Other Technologies:**
-JWT Authentication,
-Email/SMTP Integration,
-PDF Bill/Receipt Generation,
+JWT Authentication ,
+Email/SMTP Integration ,
+PDF Bill/Receipt Generation ,
 npm
 
 # Key Features
-👤 User Registration & Login,
+👤 User Registration & Login
+
 🔐 JWT-based Authentication,
 🍕 Vegetarian Food Menu,
 📂 Menu Categories & Food Items,
