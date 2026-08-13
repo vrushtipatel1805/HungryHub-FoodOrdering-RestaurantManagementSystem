@@ -6,54 +6,53 @@ menu items, orders, reservations, payments, coupons, feedback, and restaurant op
 # Technology Used
 
 **Frontend:**
-React.js
-Vite
-HTML5
-CSS3
-JavaScript
+React.js,
+Vite,
+HTML5,
+CSS3,
+JavaScript,
 Tailwind CSS
 
 **Backend:**
-Python
-Django
-Django REST Framework
+Python,
+Django,
+Django REST Framework,
 REST APIs
 
 **Database:**
-PostgreSQL
+PostgreSQL,
 Django ORM
 
 **Other Technologies:**
-JWT Authentication
-Email/SMTP Integration
-PDF Bill/Receipt Generation
-Git & GitHub
+JWT Authentication,
+Email/SMTP Integration,
+PDF Bill/Receipt Generation,
 npm
 
 # Key Features
-👤 User Registration & Login
-🔐 JWT-based Authentication
-🍕 Vegetarian Food Menu
-📂 Menu Categories & Food Items
-🛒 Shopping Cart
-📦 Online Food Ordering
-💰 GST & Delivery Charge Calculation
-🎟️ Coupon & Discount System
-💳 Payment Management
-🍽️ Table Reservation
-🎉 Event Package Booking
-📄 Booking & Order Bill Generation
-📧 Email Notifications
-⭐ Customer Feedback & Ratings
-🤖 AI Taste Match
-❤️ Favourite Meals / Food Recommendations
-📊 Admin Dashboard
-👥 User Management
-🍴 Menu Management
-📋 Order Management
-🪑 Reservation Management
-💵 Revenue & Payment Management
-🎟️ Coupon Management
+👤 User Registration & Login,
+🔐 JWT-based Authentication,
+🍕 Vegetarian Food Menu,
+📂 Menu Categories & Food Items,
+🛒 Shopping Cart,
+📦 Online Food Ordering,
+💰 GST & Delivery Charge Calculation,
+🎟️ Coupon & Discount System,
+💳 Payment Management,
+🍽️ Table Reservation,
+🎉 Event Package Booking,
+📄 Booking & Order Bill Generation,
+📧 Email Notifications,
+⭐ Customer Feedback & Ratings,
+🤖 AI Taste Match,
+❤️ Favourite Meals / Food Recommendations,
+📊 Admin Dashboard,
+👥 User Management,
+🍴 Menu Management,
+📋 Order Management,
+🪑 Reservation Management,
+💵 Revenue & Payment Management,
+🎟️ Coupon Management,
 📈 Reports & Analytics
 
 # Project Structure
